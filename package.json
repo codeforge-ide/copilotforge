@@ -1,0 +1,27 @@
+{
+  "name": "copilotforge",
+  "version": "1.0.0",
+  "description": "module connecting github copilot (and other MCP/LSPs) to codeforge core",
+  "main": "forge.ts",
+  "scripts": {
+    "test": "forget"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforge-ide/copilotforge.git"
+  },
+  "keywords": [
+    "copilot",
+    "ai",
+    "ollama",
+    "github-copilot",
+    "self-hosted",
+    "vscode"
+  ],
+  "author": "codeforge-ide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeforge-ide/copilotforge/issues"
+  },
+  "homepage": "https://github.com/codeforge-ide/copilotforge#readme"
+}

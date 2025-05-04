@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/codeforge-ide/copilotforge/issues"
   },
-  "homepage": "https://github.com/codeforge-ide/copilotforge#readme"
+  "homepage": "https://github.com/codeforge-ide/copilotforge#readme",
+  "dependencies": {
+    "@github/copilot-language-server": "^1.312.0"
+  }
 }

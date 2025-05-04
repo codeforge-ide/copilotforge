@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "module connecting github copilot (and other MCP/LSPs) to codeforge core",
   "main": "forge.ts",
+  "bin": {
+    "forge": "./src/cli.ts"
+  },
   "scripts": {
     "test": "forget"
   },
